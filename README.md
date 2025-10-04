@@ -1,4 +1,4 @@
-# README - Cliente MQTT TLS para Raspberry Pi Pico W
+# Cliente MQTT TLS para Raspberry Pi Pico W
 
 Este projeto implementa um cliente MQTT seguro (TLS) rodando no **Raspberry Pi Pico W**, lendo botões e temperatura, publicando no broker Mosquitto.
 
