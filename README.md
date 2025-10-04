@@ -99,6 +99,14 @@ sudo mkdir -p /etc/mosquitto/certs
 
 3. Copiar certificados (CA, server, client) para `/etc/mosquitto/certs`
 
+Depois de gerar os certificados (CA, server e client), você deve copiá-los para o diretório de certificados do Mosquitto:
+
+```bash
+sudo mkdir -p /etc/mosquitto/certs
+sudo cp ca.crt server.crt server.key client.crt client.key /etc/mosquitto/certs/
+
+```
+
 4. Ajustar permissões:
 
 ```bash
