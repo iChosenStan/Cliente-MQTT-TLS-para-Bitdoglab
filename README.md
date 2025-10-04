@@ -228,6 +228,7 @@ Agradecimento ao time da Raspberrypi pelo excelente trabalho com a biblioteca pa
 
 Ao time da EmbedTLS pela biblioteca C  que implementa a criptografia PSA, primitivas criptográficas, manipulação de certificados X.509 e os protocolos SSL/TLS e DTLS:
 🔗 https://github.com/Mbed-TLS/mbedtls
+
 ---
 
 ## 💡 Observações
