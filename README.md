@@ -57,21 +57,27 @@ set(MQTT_SERVER "192.168.0.100") # Altere isso para o nome do host ou IP do seu 
 ## 📡 Imagens do código em funcionamento:
 
 Visualização pelo MQTT Explorer...
+
 ![MQTT history](images/01.png)
 
 Captura de pacote de solicitação de conexão Sem TLS ao broker MQTT via terminal...
+
 ![Serial monitor](images/02.png)
 
 Captura de pacote de publicação de dados Sem TLS no broker MQTT via terminal...
+
 ![Serial monitor](images/03.png)
 
 Captura de pacote de solicitação de conexão COM TLS ao broker MQTT via terminal...
+
 ![Serial monitor](images/04.png)
 
 Captura de pacote de publicação de dados COM TLS no broker MQTT via terminal...
+
 ![Serial monitor](images/05.png)
 
 Localização dos scripts para gerar os certificados e setup do broker MQTT...
+
 ![Serial monitor](images/06.png)
 
 ## 🖥️ Configuração do Mosquitto
